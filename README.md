@@ -6,6 +6,8 @@ The work was rushed. Any identified bugs can be sent to the author, Lulamile Mza
 
 The code is published under the GNU AFFERO GENERAL PUBLIC LICENSE, and the license file is attached.
 
+Please use the Github issue register to register issues. Forks with appropriate attribution are welcome.
+
 The work can be cited as follows
 
 @inproceedings{Mzamo2015,
@@ -20,3 +22,4 @@ The work can be cited as follows
 	year = {2015},
 	pages = {142--147},
 }
+
