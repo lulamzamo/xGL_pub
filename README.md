@@ -18,7 +18,5 @@ The work can be cited as follows
 	publisher = {IEEE},
 	author = {Mzamo, Lulamile and Helberg, Albert and Bosch, Sonja},
 	year = {2015},
-	keywords = {\_tablet},
 	pages = {142--147},
-	file = {Mzamo et al_2015_Introducing XGL-a lexicalised probabilistic graphical lemmatiser for isiXhosa.pdf:C\:\\Users\\APN User\\Zotero\\storage\\IK5F5UBS\\Mzamo et al_2015_Introducing XGL-a lexicalised probabilistic graphical lemmatiser for isiXhosa.pdf:application/pdf},
 }
